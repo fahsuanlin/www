@@ -1,0 +1,58 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 20:28:24 Aug 1, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 8:54:44 Dec 23, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+* Skeleton V1.1
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 8/17/2011
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+/* #Page Styles
+================================================== */
+	
+/* #Media Queries
+================================================== */
+	
+	div.inner-header-wrapper{ width: 980px; margin-left: -10px; }
+
+	/* Normal Size with no sidebar */
+	div.stunning-text-wrapper,
+	div.navigation-wrapper{ width: 980px; margin-left: -20px; }
+	
+	div.content-bottom-gimmick{ width: 960px; padding: 0px 10px 0px 10px; margin-left: -10px; }
+	div.content-wrapper{ width: 960px; padding: 20px 10px 0px 10px; margin-left: -10px; }
+	
+	div.container .top-navigation-wrapper-gimmick{ width: 980px; margin-left: -10px; }
+		
+	/* Normal Size with one sidebar */
+	div.sidebar-included.left-sidebar .stunning-text-wrapper{ width: 660px; margin-left: 0px; }
+	div.sidebar-included.right-sidebar .stunning-text-wrapper{ width: 660px; margin-left: -20px; }
+	
+	/* Normal Size with both sidebar */
+	div.both-sidebar-included .stunning-text-wrapper{ width: 460px; margin-left: 0px; }	
+	div.both-sidebar-included .stunning-text-button-wrapper{ float: none; display: block; margin: auto; }
+	div.both-sidebar-included a.stunning-text-button{ float: none; display: inline-block; margin-right: 0px; }
+	

@@ -1,0 +1,73 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 7:39:29 Mar 3, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 8:57:13 Dec 23, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), local('DroidSans'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidsans/v6/s-BiyweUPV0v-yRb-cjciC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidsans/v6/EFpQQyG9GqCrobXxL-KRMfEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Serif'), local('DroidSerif'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaJ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Serif Bold'), local('DroidSerif-Bold'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Droid Serif Italic'), local('DroidSerif-Italic'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS589-LrC4Du4e_yfTJ8Ol60xk0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Droid Serif Bold Italic'), local('DroidSerif-BoldItalic'), url(/web/20160303073929/http://fonts.gstatic.com/s/droidserif/v6/c92rD_x0V1LslSFt3-QEpmsGzsqhEorxQDpu60nfWEc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'), local('Merriweather-Regular'), url(/web/20160303073929/http://fonts.gstatic.com/s/merriweather/v11/RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(/web/20160303073929/http://fonts.gstatic.com/s/merriweather/v11/ZvcMqxEwPfh2qDWBPxn6nn06qf9KHRHwsVx7iw5MXmY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Merriweather Italic'), local('Merriweather-Italic'), url(/web/20160303073929/http://fonts.gstatic.com/s/merriweather/v11/So5lHxHT37p2SS4-t60SlCtfYakCkPqOMDce0h_3gD8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url(/web/20160303073929/http://fonts.gstatic.com/s/merriweather/v11/EYh7Vl4ywhowqULgRdYwICxQL91WRy8t8mPvAX_dIgA.ttf) format('truetype');
+}
